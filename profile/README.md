@@ -2,24 +2,20 @@
 
 <div align="center">
 
-<img height="120" src="https://avatars.githubusercontent.com/u/262958902?s=240" alt="Trapezohe" />
+<img src="https://raw.githubusercontent.com/Trapezohe/.github/main/ghast-banner.png" alt="Ghast AI — Your Memories, Your Assets." width="100%" />
 
-<h1>Trapezohe</h1>
-
-Local-first AI tools for people who want their context back.
+<br/>
 
 [![][website-shield]][website-link]
 [![][discord-shield]][discord-link]
 [![][github-star]][github-link]
 [![][x-shield]][x-link]
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 </div>
 
 ### 👋 Welcome to Trapezohe
 
-We build tools that respect where your data lives. The cloud is convenient, but it shouldn't be the only place a memory, a workflow, or an agent can run. Everything we ship runs first on the machine in front of you, talks to local files and processes directly, and only reaches out to the network when you want it to.
+We're building the next agent economy powered by **user-owned memory assets**. Your conversations, your context, your workflows — they should live where you live, not on someone else's database. The cloud is convenient, but it shouldn't be the only place a memory, a workflow, or an agent can run.
 
 [Ghast AI][ghast-website] is our flagship — a desktop AI companion that remembers, takes action, and works across the apps you already use. The repositories below are the open-source layers underneath, each usable on its own.
 
