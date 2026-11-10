@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Trapezohe/.github/main/ghast-banner.png" alt="Ghast AI — Your Memories, Your Assets." width="100%" />
+<img src="https://raw.githubusercontent.com/Trapezohe/.github/main/ghast-banner.png" alt="Ghast AI — private expertise, callable by agents." width="100%" />
 
 <br/>
 
@@ -15,7 +15,9 @@
 
 ### 👋 Welcome to Ghast AI
 
-**[Ghast AI][website-link]** — private expertise, callable by agents. We're building the protocol that lets experts and teams offer their know-how as services AI agents can find, trust and pay for, starting with [Ghast Workbench][workbench-link], our desktop AI agent workspace.
+**[Ghast AI][website-link] — private expertise, callable by agents.**
+
+We're building the protocol that lets experts and teams offer their know-how as services AI agents can find, trust and pay for, starting with [Ghast Workbench][workbench-link], our desktop AI agent workspace.
 
 [Explore Workbench][workbench-link] · [Read the current guides][docs-link] · [Official names and links][brand-link]
 
@@ -23,19 +25,19 @@ Ghast Protocol is in development. The repositories below are open-source project
 
 ### ⭐️ Our Projects
 
-| [**🐉 Ghast Workbench**][workbench-link]<br/>Desktop AI workspace for macOS and Windows. Chat, local-project work in Coding, and multi-agent collaboration in Team.<br/><br/>[![][ghast-website-shield]][ghast-website] | <picture><img src="https://raw.githubusercontent.com/Trapezohe/companion_service/main/docs/assets/ghast-logo.png" alt="Ghast AI" width="200" /></picture> |
+| [**🐉 Ghast Workbench**][workbench-link]<br/>Desktop AI workspace for chat, coding, and multi-agent work on macOS and Windows.<br/><br/>[![][ghast-website-shield]][ghast-website] | <picture><img src="https://raw.githubusercontent.com/Trapezohe/.github/main/ghast-logo.png" alt="Ghast AI" width="200" /></picture> |
 | :--- | :---: |
-| [**🧠 Anamnesis**][anamnesis-github]<br/>Local-first interoperability layer that imports, normalizes, indexes, and serves agent memory across runtimes. Rust CLI + MCP server with SQLite + FTS + optional embeddings.<br/><br/>[![][anamnesis-shield]][anamnesis-github] | <picture><img src="https://raw.githubusercontent.com/Trapezohe/Anamnesis/main/banner.png" alt="Anamnesis" width="300" /></picture> |
-| [**🖥️ Companion Service**][companion-github]<br/>Desktop runtime for the Ghast extension — local execution with permission policy, native browser pairing for Chrome / Brave / Edge, MCP host, and ACP session ingress.<br/><br/>[![][companion-shield]][companion-github] | <picture><img src="https://raw.githubusercontent.com/Trapezohe/companion_service/main/docs/assets/ghast-logo.png" alt="Companion" width="200" /></picture> |
+| [**🧠 Anamnesis**][anamnesis-github]<br/>Local-first layer that imports and serves agent memory across runtimes.<br/><br/>[![][anamnesis-shield]][anamnesis-github] | <picture><img src="https://raw.githubusercontent.com/Trapezohe/Anamnesis/main/banner.png" alt="Anamnesis" width="300" /></picture> |
+| [**🖥️ Companion Service**][companion-github]<br/>Desktop runtime for the Ghast extension, with local execution and browser pairing.<br/><br/>[![][companion-shield]][companion-github] | <picture><img src="https://raw.githubusercontent.com/Trapezohe/.github/main/ghast-logo.png" alt="Companion" width="200" /></picture> |
 
 ### 📦 Ecosystem
 
 | Repository | Purpose | Language |
 | :--- | :--- | :---: |
-| [**🔌 ghast-plugins**][ghast-plugins-github] | Plugin + MCP marketplace served to Ghast's in-app browser. Anthropic plugin-format compatible — Claude Code plugins drop in unchanged. | ![][lang-python] |
-| [**📇 ghast-mcp-registry**][ghast-mcp-registry-github] | Curated MCP server directory rendered in Ghast → Settings → MCP → Marketplace. Edit `registry.json`, the in-app marketplace updates on next refresh. | ![][lang-json] |
-| [**📖 Ghast_Doc**][ghast-doc-github] | Earlier VitePress documentation source. Current product guides: [Ghast AI Docs][docs-link]. | ![][lang-vitepress] |
-| [**🗂️ ghast-memory-os**][ghast-memory-os-github] | Local-first Memory OS for personal agents: evidence-backed memory, SQLite, plus MCP and HTTP surfaces. | ![][lang-typescript] |
+| [**🔌 ghast-plugins**][ghast-plugins-github] | Plugin and MCP marketplace for Ghast's in-app browser. | ![][lang-python] |
+| [**📇 ghast-mcp-registry**][ghast-mcp-registry-github] | Curated MCP server directory shown in Ghast's marketplace. | ![][lang-json] |
+| [**📖 Ghast_Doc**][ghast-doc-github] | Earlier documentation source; current guides are at [Ghast AI Docs][docs-link]. | ![][lang-vitepress] |
+| [**🗂️ ghast-memory-os**][ghast-memory-os-github] | Local-first memory system for personal agents. | ![][lang-typescript] |
 
 ### 🏗️ How It Fits Together
 
