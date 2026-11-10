@@ -15,13 +15,11 @@
 
 ### 👋 Welcome to Trapezohe
 
-We're building the next agent economy powered by **user-owned memory assets**. Your conversations, your context, your workflows — they should live where you live, not on someone else's database. The cloud is convenient, but it shouldn't be the only place a memory, a workflow, or an agent can run.
-
-Trapezohe builds **Ghast AI**. [Ghast Workbench][workbench-link] is our desktop AI workspace for macOS and Windows, with Chat, Coding and Team workflows. Desktop installers use the **Ghast Desktop** name; the installed application is **Ghast AI**. The Chrome extension has a separate feature set.
+**[Ghast AI][website-link]** — private expertise, callable by agents. We're building the protocol that lets experts and teams offer their know-how as services AI agents can find, trust and pay for, starting with [Ghast Workbench][workbench-link], our desktop AI agent workspace.
 
 [Explore Workbench][workbench-link] · [Read the current guides][docs-link] · [Official names and links][brand-link]
 
-Ghast Protocol and the Capability Economy are proposed designs in development. The repositories below are open-source projects in the Ghast ecosystem, each usable on its own.
+Ghast Protocol is in development. The repositories below are open-source projects in the Ghast ecosystem, each usable on its own.
 
 ### ⭐️ Our Projects
 
@@ -37,6 +35,7 @@ Ghast Protocol and the Capability Economy are proposed designs in development. T
 | [**🔌 ghast-plugins**][ghast-plugins-github] | Plugin + MCP marketplace served to Ghast's in-app browser. Anthropic plugin-format compatible — Claude Code plugins drop in unchanged. | ![][lang-python] |
 | [**📇 ghast-mcp-registry**][ghast-mcp-registry-github] | Curated MCP server directory rendered in Ghast → Settings → MCP → Marketplace. Edit `registry.json`, the in-app marketplace updates on next refresh. | ![][lang-json] |
 | [**📖 Ghast_Doc**][ghast-doc-github] | Earlier VitePress documentation source. Current product guides: [Ghast AI Docs][docs-link]. | ![][lang-vitepress] |
+| [**🗂️ ghast-memory-os**][ghast-memory-os-github] | Local-first Memory OS for personal agents: evidence-backed memory, SQLite, plus MCP and HTTP surfaces. | ![][lang-typescript] |
 
 ### 🏗️ How It Fits Together
 
@@ -86,10 +85,10 @@ Per-repository. Anamnesis is Apache-2.0; see individual repositories for the res
 
 <!-- LINK GROUP -->
 
-[website-link]: https://ghast.trapezohe.ai
+[website-link]: https://ghast.trapezohe.ai/
 [website-shield]: https://img.shields.io/badge/website-ghast.trapezohe.ai-1da1f2?labelColor=black&style=flat-square&logo=safari&logoColor=white
 
-[ghast-website]: https://ghast.trapezohe.ai
+[ghast-website]: https://ghast.trapezohe.ai/
 [ghast-website-shield]: https://img.shields.io/badge/download-ghast.trapezohe.ai-ffcb47?labelColor=black&style=flat-square&logo=apple&logoColor=white
 
 [discord-link]: https://discord.gg/ghastai
@@ -110,10 +109,12 @@ Per-repository. Anamnesis is Apache-2.0; see individual repositories for the res
 [ghast-plugins-github]: https://github.com/Trapezohe/ghast-plugins
 [ghast-mcp-registry-github]: https://github.com/Trapezohe/ghast-mcp-registry
 [ghast-doc-github]: https://github.com/Trapezohe/Ghast_Doc
+[ghast-memory-os-github]: https://github.com/Trapezohe/ghast-memory-os
 
 [lang-python]: https://img.shields.io/badge/python-3776AB?labelColor=black&style=flat-square&logo=python&logoColor=white
 [lang-json]: https://img.shields.io/badge/json-000000?labelColor=black&style=flat-square&logo=json&logoColor=white
 [lang-vitepress]: https://img.shields.io/badge/vitepress-1F1F1F?labelColor=black&style=flat-square&logo=vite&logoColor=yellow
+[lang-typescript]: https://img.shields.io/badge/typescript-3178C6?labelColor=black&style=flat-square&logo=typescript&logoColor=white
 
 [workbench-link]: https://ghast.trapezohe.ai/workbench
 [docs-link]: https://doc.trapezohe.ai/
