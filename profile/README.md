@@ -13,7 +13,7 @@
 
 </div>
 
-### 👋 Welcome to Trapezohe
+### 👋 Welcome to Ghast AI
 
 **[Ghast AI][website-link]** — private expertise, callable by agents. We're building the protocol that lets experts and teams offer their know-how as services AI agents can find, trust and pay for, starting with [Ghast Workbench][workbench-link], our desktop AI agent workspace.
 
@@ -81,7 +81,7 @@ Per-repository. Anamnesis is Apache-2.0; see individual repositories for the res
 
 > \[!TIP]
 >
-> Help us make Trapezohe better. Product design feedback and user experience discussions are welcome via [Discord][discord-link] or directly on [GitHub Discussions][github-link].
+> Help us make Ghast AI better. Product design feedback and user experience discussions are welcome via [Discord][discord-link] or directly on [GitHub Discussions][github-link].
 
 <!-- LINK GROUP -->
 
