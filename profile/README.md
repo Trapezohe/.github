@@ -15,13 +15,11 @@
 
 ### 👋 Welcome to Trapezohe
 
-We're building the next agent economy powered by **user-owned memory assets**. Your conversations, your context, your workflows — they should live where you live, not on someone else's database. The cloud is convenient, but it shouldn't be the only place a memory, a workflow, or an agent can run.
-
-Trapezohe builds **[Ghast AI][website-link]**. [Ghast Workbench][workbench-link] is our desktop AI workspace for macOS and Windows, with Chat, Coding and Team workflows. Desktop installers use the **Ghast Desktop** name; the installed application is **Ghast AI**. The Chrome extension has a separate feature set.
+**[Ghast AI][website-link]** — private expertise, callable by agents. We're building the protocol that lets experts and teams offer their know-how as services AI agents can find, trust and pay for, starting with [Ghast Workbench][workbench-link], our desktop AI agent workspace.
 
 [Explore Workbench][workbench-link] · [Read the current guides][docs-link] · [Official names and links][brand-link]
 
-Ghast Protocol and the Capability Economy are proposed designs in development. The repositories below are open-source projects in the Ghast ecosystem, each usable on its own.
+Ghast Protocol is in development. The repositories below are open-source projects in the Ghast ecosystem, each usable on its own.
 
 ### ⭐️ Our Projects
 
